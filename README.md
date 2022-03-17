@@ -8,7 +8,7 @@ My repository
 
  <!-- un premier marin -->
  <marin  id="12">
-	 <nom>Surcouf</nom>
-	 <prenom>Robert</prenom>
-	 <remarque  lang="FR">Capitaine corsaire</remarque>
+	 <nom>I'm</nom>
+	 <prenom>Harxia</prenom>
+	 <remarque  lang="FR">Webdesigner & Front-End Developper</remarque>
  </marin>
