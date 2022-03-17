@@ -1,4 +1,5 @@
 "LOCAL" 
+REMOTE
 
 # Repository
 My repository
